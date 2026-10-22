@@ -38,5 +38,6 @@ An interactive Power BI dashboard designed to analyze sales, profitability, prod
 ## How to Use
 Open the `.pbix` file using Microsoft Power BI Desktop. Interact with the dropdown slicers to explore different countries, products, customer segments, and years.
 
-## Author
-Data Analytics Portfolio Project
+## Tools
+Microsoft Power BI, Microsoft Excel, Notepad, Power query.
+
